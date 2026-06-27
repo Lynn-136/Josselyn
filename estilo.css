@@ -147,7 +147,8 @@ a.aprender-mas:hover{
   padding-right: 30px; /* 4*/
 }
 .articulos article{  /* 10   */
-    margin-bottom: 10px;
+    margin-bottom: 30px;
+    overflow: hidden;
 }
 .articulos h2{  /**4**/
     color: #444444;
